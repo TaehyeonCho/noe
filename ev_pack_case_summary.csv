@@ -1,0 +1,4 @@
+case,Tmax_C,t_Tmax_s,T_limit_C,margin_to_limit_C,cell_number,ns_index(0-based),np_index(0-based),dT_last_K,dT_max_K
+base_100A_normalcool,50.027,30.000,90.000,39.973,2,0,1,9.236,9.236
+caseA_150A_weakcool,65.033,20.000,90.000,24.967,38,9,1,5.717,5.717
+caseB_100A_strongcool,49.625,30.000,90.000,40.375,2,0,1,6.338,6.359
